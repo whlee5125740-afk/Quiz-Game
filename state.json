@@ -1,0 +1,75 @@
+{
+  "quizzes": [
+    {
+      "question": "파이썬에서 화면에 글자를 출력하는 함수는?",
+      "choices": [
+        "print()",
+        "input()",
+        "len()",
+        "type()"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "파이썬에서 사용자 입력을 받는 함수는?",
+      "choices": [
+        "range()",
+        "input()",
+        "sum()",
+        "str()"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "여러 항목을 순서대로 저장하는 자료형은?",
+      "choices": [
+        "bool",
+        "int",
+        "list",
+        "float"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "조건에 따라 실행할 코드를 결정하는 키워드는?",
+      "choices": [
+        "for",
+        "def",
+        "import",
+        "if"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "같은 명령을 조건이 참인 동안 반복하는 문장은?",
+      "choices": [
+        "while",
+        "return",
+        "class",
+        "break"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "JSON 파일을 다루는 표준 라이브러리의 이름은?",
+      "choices": [
+        "math",
+        "json",
+        "random",
+        "pathlib"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Git에서 파일을 커밋 대상으로 등록하는 명령어는?",
+      "choices": [
+        "git push",
+        "git add",
+        "git clone",
+        "git status"
+      ],
+      "answer": 2
+    }
+  ],
+  "best_score": 6
+}
